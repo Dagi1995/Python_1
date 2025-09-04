@@ -1,4 +1,4 @@
-# Python Projects
+# Python Projects and Try some Games
 
 Welcome to the `Python_1` repository! This repository includes several Python projects designed to demonstrate a variety of programming concepts and practical applications. Below is a summary of the projects contained in this repository:
 
